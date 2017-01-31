@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: Rey Devega
+      * Date: 01/30/2017
+      * Purpose: Execute Class Methods
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
