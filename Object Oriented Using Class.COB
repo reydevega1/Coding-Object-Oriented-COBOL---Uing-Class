@@ -1,7 +1,7 @@
       ******************************************************************
-      * Author:
-      * Date:
-      * Purpose:
+      * Author: rey Devega    
+      * Date: 01/31/2017
+      * Purpose: Using Class
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
